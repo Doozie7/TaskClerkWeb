@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# To run this script, save it as create_azure_resources.sh and execute it in your terminal with the command:
+# in a bash script run
+#      bash create_azure_resources.sh
+# Make sure you have the Azure CLI installed and are logged into your Azure account using az login before running the script.
+
 # Variables
 resourceGroupName="TaskClerkResourceGroup"
 location="northeurope"
