@@ -1,4 +1,4 @@
-### 1. **Define the Solution Architecture**
+### 1. **TaskClerkWeb the Solution Architecture**
 
 **1.1. Server Infrastructure on Azure:**
    - **App Service**: Host the Blazor WebAssembly (WASM) app.
